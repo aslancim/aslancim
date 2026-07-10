@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- Ziyaretçi Sayacı -->
-  <img src="https://profile-counter.glitch.me/KULLANICI_ADIN/count.svg" alt="Visitors" />
+  <img src="https://profile-counter.glitch.me/aslancim./count.svg" alt="Visitors" />
 </p>
 
 <hr />
