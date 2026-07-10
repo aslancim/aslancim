@@ -8,6 +8,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=Welcome!&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
+<img width="410" height="210" alt="image" src="https://github.com/user-attachments/assets/05fbc7de-3d8d-4979-813b-87b9097243a8" />
+
+
 </div>
 
 ---
