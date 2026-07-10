@@ -1,111 +1,51 @@
-## Hi there 👋
-
-<div align="center">
-
-# 👋 Hey, I'm Aslancim
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Frontend+Developer;Full+Stack+Developer;Python+%7C+Java+%7C+Go+%7C+JavaScript;Always+Learning+New+Things..." />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=220&section=header&text=Welcome!&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
-
-<img width="410" height="210" alt="image" src="https://github.com/user-attachments/assets/05fbc7de-3d8d-4979-813b-87b9097243a8" />
-
-
-</div>
-
----
-
-# 💫 About Me
-
-```text
-💻 Backend Developer
-🎨 Frontend Developer
-🚀 Full Stack Developer
-
-⚡ Languages
-Python • Java • Go • JavaScript
-
-🖥️ Operating Systems
-Windows
-Linux
-
-🎯 Passion
-Building fast, scalable and beautiful software.
-
-📚 Currently
-Always learning something new.
-```
-
----
-
-# 🚀 Tech Stack
+# Selam dostlar, ben aslancm.! 👋
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,go,javascript,typescript,nodejs,react,nextjs,html,css,tailwind,docker,git,github,linux,windows,vscode,mysql,postgres,mongodb"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Yazılım+Geliştirici;Teknoloji+Tutkunu;Her+Gün+Yeni+Bir+Kod" alt="Typing SVG" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+### 🚀 Hakkımda
 
-<p align="center">
+- 🔭 Şu anda **[Şu Proje/Şirket]** üzerinde çalışıyorum.
+- 🌱 Kendimi **[Öğrenmekte Olduğun Teknolojiler]** alanlarında geliştiriyorum.
+- 💬 Bana **Web Geliştirme, Mobil Uygulamalar veya Kahve** hakkında soru sorabilirsiniz.
+- ⚡ Eğlenceli Bilgi: Kod yazarken arka planda mutlaka **[En Sevdiğin Müzik Türü/Şarkı]** çalar.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aslancim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslancim&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🛠️ Kullandığım Teknolojiler ve Araçlar
 
+<p align="left">
+  <!-- Frontend -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+  </a>
+</p>
+
+<p align="left">
+  <!-- Backend & DB -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,git,github,vscode" />
+  </a>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+### 📊 GitHub İstatistiklerim
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=aslancim&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+### 🤝 Benimle İletişime Geç
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aslancim&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aslancim&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
----
-
-# ⚡ Coding
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslancim&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌎 Connect
-
-<p align="center">
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
-
+<p align="left">
+  <a href="https://linkedin.com/in/KULLANICI_ADIN" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:E-POSTA_ADRESIN" target="blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/KULLANICI_ADIN" target="blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </p>
