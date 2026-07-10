@@ -1,51 +1,39 @@
-# Selam dostlar, ben aslancm.! 👋
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Yazılım+Geliştirici;Teknoloji+Tutkunu;Her+Gün+Yeni+Bir+Kod" alt="Typing SVG" />
+  <!-- Discord & Spotify Canlı Durum Kartı -->
+  <!-- NOT: Bu kartın çalışması için öncelikle Lanyard Discord sunucusuna katılman veya bu widget'ı sağlayan servise Discord'unu bağlaman gerekir. Alternatif olarak stabil çalışan novatorem api kullanılmıştır. KULLANICI_DISCORD_ID yazan yere 18 haneli Discord ID'ni yaz. -->
+  <img src="https://api.novatorem.com/api/discord/presence/KULLANICI_DISCORD_ID" alt="Discord Status" />
 </p>
 
----
+<p align="center">
+  <!-- Ziyaretçi Sayacı -->
+  <img src="https://profile-counter.glitch.me/KULLANICI_ADIN/count.svg" alt="Visitors" />
+</p>
 
-### 🚀 Hakkımda
+<hr />
 
-- 🔭 Şu anda **[Şu Proje/Şirket]** üzerinde çalışıyorum.
-- 🌱 Kendimi **[Öğrenmekte Olduğun Teknolojiler]** alanlarında geliştiriyorum.
-- 💬 Bana **Web Geliştirme, Mobil Uygulamalar veya Kahve** hakkında soru sorabilirsiniz.
-- ⚡ Eğlenceli Bilgi: Kod yazarken arka planda mutlaka **[En Sevdiğin Müzik Türü/Şarkı]** çalar.
+<p align="center">
+  <!-- LOVES CLEAN CODE | ALWAYS LEARNING Rozetleri -->
+  <img src="https://img.shields.io/badge/LOVES-CLEAN%20CODE-FF6B6B?style=for-the-badge&labelColor=666666" alt="Loves Clean Code" />
+  <img src="https://img.shields.io/badge/ALWAYS-LEARNING-00F5B4?style=for-the-badge&labelColor=666666&logoColor=black" alt="Always Learning" />
+</p>
 
----
+<hr />
 
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
-
-<p align="left">
-  <!-- Frontend -->
+<p align="center">
+  <!-- Teknoloji İkonları (JS, NodeJS, Python, TS) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,py,ts&theme=dark" />
   </a>
 </p>
 
-<p align="left">
-  <!-- Backend & DB -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,git,github,vscode" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub İstatistiklerim
+<hr />
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🤝 Benimle İletişime Geç
-
-<p align="left">
-  <a href="https://linkedin.com/in/KULLANICI_ADIN" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:E-POSTA_ADRESIN" target="blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/KULLANICI_ADIN" target="blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <!-- Sosyal Medya Butonları (Discord & GitHub) -->
+  <a href="DISCORD_DAVET_LINKIN" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-JOIN%20ME-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=333333" alt="Discord" />
+  </a>
+  <a href="https://github.com/KULLANICI_ADIN" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=333333" alt="GitHub" />
+  </a>
 </p>
