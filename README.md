@@ -1,35 +1,56 @@
 <div align="center">
 
-<!-- Discord Presence -->
-<img src="https://api.novatorem.com/api/discord/presence/249330245755338752" alt="Discord Status" />
+# 👋 Hi, I'm Aslan
+
+### Full Stack Developer • Clean Code Enthusiast • Always Learning
+
+<br>
+
+<!-- Discord + Spotify -->
+<img src="https://lanyard.cnrad.dev/api/249330245755338752?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20Coding..." alt="Discord Presence"/>
 
 <br><br>
 
 <!-- Visitor Counter -->
-<img src="https://profile-counter.glitch.me/aslancim./count.svg" alt="Visitor Count" />
+<img src="https://profile-counter.glitch.me/aslancim./count.svg" alt="Visitors"/>
 
----
+<br><br>
 
 <!-- Badges -->
-<img src="https://img.shields.io/badge/LOVES-CLEAN%20CODE-FF6B6B?style=for-the-badge&labelColor=666666" alt="Loves Clean Code" />
-<img src="https://img.shields.io/badge/ALWAYS-LEARNING-00F5B4?style=for-the-badge&labelColor=666666&logoColor=black" alt="Always Learning" />
+<img src="https://img.shields.io/badge/LOVES-CLEAN%20CODE-FF6B6B?style=for-the-badge&labelColor=333333"/>
+<img src="https://img.shields.io/badge/ALWAYS-LEARNING-00F5B4?style=for-the-badge&labelColor=333333&logoColor=black"/>
+<img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-4F46E5?style=for-the-badge&labelColor=333333"/>
 
 ---
 
-<!-- Skills -->
+## 🚀 Tech Stack
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,py,ts,react,nextjs,mongodb,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,py,mongodb,postgres,git,github,vscode,docker&theme=dark"/>
 </a>
 
 ---
 
-<!-- Socials -->
-<a href="https://discord.gg/DAVET_KODUN">
-  <img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+## 📊 GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true"/>
+
+---
+
+## 🌐 Connect With Me
 
 <a href="https://github.com/KULLANICI_ADIN">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/DAVETLINKIN">
+<img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
