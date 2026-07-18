@@ -1,12 +1,12 @@
 <p align="center">
   <!-- Discord & Spotify Canlı Durum Kartı -->
   <!-- NOT: Bu kartın çalışması için öncelikle Lanyard Discord sunucusuna katılman veya bu widget'ı sağlayan servise Discord'unu bağlaman gerekir. Alternatif olarak stabil çalışan novatorem api kullanılmıştır. KULLANICI_DISCORD_ID yazan yere 18 haneli Discord ID'ni yaz. -->
-  <img src="https://api.novatorem.com/api/discord/presence/KULLANICI_DISCORD_ID" alt="Discord Status" />
+  <img src="https://api.novatorem.com/api/discord/presence/249330245755338752" alt="Discord Status" />
 </p>
 
 <p align="center">
   <!-- Ziyaretçi Sayacı -->
-  <img src="https://profile-counter.glitch.me/KULLANICI_ADIN/count.svg" alt="Visitors" />
+  <img src="https://profile-counter.glitch.me/aslancim./count.svg" alt="Visitors" />
 </p>
 
 <hr />
