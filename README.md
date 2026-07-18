@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Aslan
+#  aslancim.
 
-### Full Stack Developer • Clean Code Enthusiast • Always Learning
+###  Developer.
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,py,mongodb,postgres,git,github,vscode,docker&theme=dark"/>
@@ -26,7 +26,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <a href="https://github.com/KULLANICI_ADIN">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
