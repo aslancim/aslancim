@@ -1,8 +1,8 @@
 <div align="center">
 
-#  aslancim.
+# 👋 Hi, I'm **aslancim.**
 
-###  Developer.
+### Developer • Always Learning
 
 <br>
 
@@ -15,21 +15,20 @@
 <img src="https://img.shields.io/badge/LOVES-CLEAN%20CODE-FF6B6B?style=for-the-badge&labelColor=333333"/>
 <img src="https://img.shields.io/badge/ALWAYS-LEARNING-00F5B4?style=for-the-badge&labelColor=333333&logoColor=black"/>
 
-
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,py,github,vscode,&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,py,github,vscode&theme=dark" alt="Tech Stack"/>
 </a>
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
-<a href="https://github.com/KULLANICI_ADIN">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/aslancim">
+  <img src="https://img.shields.io/badge/GitHub-@aslancim-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://discord.gg/DAVETLINKIN">
