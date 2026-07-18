@@ -11,11 +11,6 @@
 
 <br><br>
 
-<!-- Visitor Counter -->
-<img src="https://profile-counter.glitch.me/aslancim./count.svg" alt="Visitors"/>
-
-<br><br>
-
 <!-- Badges -->
 <img src="https://img.shields.io/badge/LOVES-CLEAN%20CODE-FF6B6B?style=for-the-badge&labelColor=333333"/>
 <img src="https://img.shields.io/badge/ALWAYS-LEARNING-00F5B4?style=for-the-badge&labelColor=333333&logoColor=black"/>
@@ -26,31 +21,19 @@
 ## 🚀 Tech Stack
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,py,mongodb,postgres,git,github,vscode,docker&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,py,mongodb,postgres,git,github,vscode,docker&theme=dark"/>
 </a>
-
----
-
-## 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true"/>
 
 ---
 
 ## 🌐 Connect With Me
 
 <a href="https://github.com/KULLANICI_ADIN">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://discord.gg/DAVETLINKIN">
-<img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
