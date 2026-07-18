@@ -1,15 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm **aslancim.**
+#   I'm **aslancim.**
 
-### Developer • Always Learning
+### Developer 
 
 <br>
 
 <!-- Discord + Spotify -->
 <img src="https://lanyard.cnrad.dev/api/249330245755338752?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20Coding..." alt="Discord Presence"/>
 
-<br><br>
 
 <!-- Badges -->
 <img src="https://img.shields.io/badge/LOVES-CLEAN%20CODE-FF6B6B?style=for-the-badge&labelColor=333333"/>
@@ -17,7 +16,7 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,py,github,vscode&theme=dark" alt="Tech Stack"/>
@@ -25,7 +24,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <a href="https://github.com/aslancim">
   <img src="https://img.shields.io/badge/GitHub-@aslancim-181717?style=for-the-badge&logo=github&logoColor=white"/>
