@@ -21,7 +21,7 @@
 ## Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,py,git,github,vscode,docker&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,py,github,vscode,&theme=dark"/>
 </a>
 
 ---
