@@ -14,7 +14,7 @@
 <!-- Badges -->
 <img src="https://img.shields.io/badge/LOVES-CLEAN%20CODE-FF6B6B?style=for-the-badge&labelColor=333333"/>
 <img src="https://img.shields.io/badge/ALWAYS-LEARNING-00F5B4?style=for-the-badge&labelColor=333333&logoColor=black"/>
-<img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-4F46E5?style=for-the-badge&labelColor=333333"/>
+
 
 ---
 
