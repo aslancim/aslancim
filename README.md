@@ -10,7 +10,6 @@
 <img src="https://lanyard.cnrad.dev/api/249330245755338752?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20Coding..." alt="Discord Presence"/>
 
 <br><br>
-
 ##
 
 <!-- Badges -->
