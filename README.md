@@ -20,7 +20,7 @@
 ##  Tech Stack
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,py,github,vscode&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,py,github,vscode&theme=dark" alt="Tech Stack"/>
 </a>
 
 ---
