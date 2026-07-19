@@ -29,7 +29,6 @@
 
 <a href="https://github.com/aslancim">
   <img src="https://img.shields.io/badge/GitHub-@aslancim-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="https://discord.gg/alemdar">
   <img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
