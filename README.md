@@ -1,8 +1,8 @@
 <div align="center">
 
-#   I'm **aslancim.**
+#   
 
-### Developer 
+### 
 
 <br>
 
