@@ -9,6 +9,7 @@
 <!-- Discord + Spotify -->
 <img src="https://lanyard.cnrad.dev/api/249330245755338752?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20Coding..." alt="Discord Presence"/>
 <br><br>
+
 ##
 <!-- Badges -->
 <img src="https://img.shields.io/badge/LOVES-CLEAN%20CODE-FF6B6B?style=for-the-badge&labelColor=333333"/>
